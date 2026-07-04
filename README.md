@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daryljames
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning the ways of the odin project, but I had completed a bootcamp for full stack last year
+- 👀 Currently working as a full-stack web developer
+- 🌱 Constantly creating small projects on the side
 - 💞️ I’m looking to collaborate on projects that I know will enhance my skills
 - 📫 How to reach me: yeah you can email me via daryljamesm24@gmail.com
 
